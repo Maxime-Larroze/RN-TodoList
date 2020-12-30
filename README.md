@@ -9,6 +9,7 @@ Projet de développement scolaire.
 Application développée **uniquement en dans la langue Française** (French App Language)
 
 # Démarrer l'application
+Lien de Build: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40maxime-larroze/ToDoList-Eval-561b6764f91740738ecce16b7046a647-signed.apk
 
 Pour utiliser cette application, téléchargez-là sur le github : [télécharger au format ZIP](https://github.com/Maxime-Larroze/RN-TodoList/archive/1.1.zip)
 ou avec [github desktop](https://desktop.github.com/)
