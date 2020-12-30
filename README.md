@@ -17,6 +17,7 @@ Une fois l'acquisition de l'application faite, lancez le terminal dans le dossie
 
 ## Menu de démarrage
 Le menu de démarrage de l'application ouvre directement la page de création d'une liste de tâche. Pour créer une liste de tâches, vous devez entrer le nom de cette liste et y choisir sa couleur. 
+ 
  ![Screenshot init app](https://nsa40.casimages.com/img/2020/12/30/mini_201230114936372044.jpg)
 ## Page d'accueil
 La page d'accueil permet de voir l'ensemble des listes, d'accéder à la page de création d'une nouvelle liste signalée par un **+**, ou encore d'accéder à la page d'un liste spécifique en cliquant dessus.
