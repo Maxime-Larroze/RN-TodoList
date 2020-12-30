@@ -1,6 +1,8 @@
 # React Native Project with Expo
 
-![WTFYW Licence](https://s23527.pcdn.co/wp-content/uploads/2015/12/DWTFPL-670x324.jpg.optimal.jpg)![Expo React Native](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/74/41/2c/74412c63-5df6-e493-c0f6-4e64faf468ae/source/256x256bb.jpg)![React Native](https://cssilize.com/img/reactnative-logo.png)
+![WTFYW Licence](https://s23527.pcdn.co/wp-content/uploads/2015/12/DWTFPL-670x324.jpg.optimal.jpg)
+
+![Expo React Native](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/74/41/2c/74412c63-5df6-e493-c0f6-4e64faf468ae/source/256x256bb.jpg)![React Native](https://cssilize.com/img/reactnative-logo.png)
 
 # Avant propos
 Projet de développement scolaire.  
