@@ -2,6 +2,7 @@
 
 ![WTFYW Licence](https://s23527.pcdn.co/wp-content/uploads/2015/12/DWTFPL-670x324.jpg.optimal.jpg)![Expo React Native](https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/74/41/2c/74412c63-5df6-e493-c0f6-4e64faf468ae/source/256x256bb.jpg)![React Native](https://cssilize.com/img/reactnative-logo.png)
 
+# Avant propos
 Projet de développement scolaire.  
 Application développée **uniquement en dans la langue Française** (French App Language)
 
@@ -12,18 +13,15 @@ ou avec [github desktop](https://desktop.github.com/)
 
 Une fois l'acquisition de l'application faite, lancez le terminal dans le dossier **RN-TodoList** puis lancez lancez la commande `npm start`.
 
-
-
-## Utiliser l'application
-
-L'utilisation de l'application est simple.
-
- 1. **Menu de démarrage**: le menu de démarrage de l'application ouvre directement la page de création d'une liste de tâche. Pour créer une liste de tâches, vous devez entrer le nom de cette liste et y choisir sa couleur. 
+## Menu de démarrage
+Le menu de démarrage de l'application ouvre directement la page de création d'une liste de tâche. Pour créer une liste de tâches, vous devez entrer le nom de cette liste et y choisir sa couleur. 
  ![Screenshot init app](https://nsa40.casimages.com/img/2020/12/30/mini_201230114936372044.jpg)
- 2. **Page d'accueil**: La page d'accueil permet de voir l'ensemble des listes, d'accéder à la page de création d'une nouvelle liste signalée par un **+**, ou encore d'accéder à la page d'un liste spécifique en cliquant dessus.
+## Page d'accueil
+La page d'accueil permet de voir l'ensemble des listes, d'accéder à la page de création d'une nouvelle liste signalée par un **+**, ou encore d'accéder à la page d'un liste spécifique en cliquant dessus.
 
 ![Menu of this app](https://nsa40.casimages.com/img/2020/12/30/mini_20123011493653862.jpg)
- 3. **Créer des tâches dans les listes**: Pour créer une ou plusieurs tâches dans une liste, rendez-vous dans la liste de tâches, puis dans la barre de texte située en bas de l'écran écrivez l'intitulé de votre tâche puis appuyez sur le bouton **+**. Votre tâche vient d'être créée et ajoutée à votre liste.
+## Créer des tâches dans les listes
+Pour créer une ou plusieurs tâches dans une liste, rendez-vous dans la liste de tâches, puis dans la barre de texte située en bas de l'écran écrivez l'intitulé de votre tâche puis appuyez sur le bouton **+**. Votre tâche vient d'être créée et ajoutée à votre liste.
 
 ![Créer une tâche](https://nsa40.casimages.com/img/2020/12/30/mini_201230114937198320.jpg)
 
