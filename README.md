@@ -8,6 +8,10 @@
 Projet de développement scolaire.  
 Application développée **uniquement en dans la langue Française** (French App Language)
 
+|Branch|Build|Version|Version Package|
+|--|--|--|--|
+| main | ![enter image description here](https://camo.githubusercontent.com/cb09d889c6b9cb62863a9b25ea998d14a14ed56cd6e5f74d59963c1407ad04cd/68747470733a2f2f7365637572652e7472617669732d63692e6f72672f6772756e746a732f6772756e742e706e673f6272616e63683d6d6173746572) |1.1 |Expo 40.0.0
+
 # Démarrer l'application
 Lien de Build: https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40maxime-larroze/ToDoList-Eval-561b6764f91740738ecce16b7046a647-signed.apk
 
